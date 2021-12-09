@@ -1,0 +1,12 @@
+body {
+  background: #F1C40F;
+}
+#preview {
+  background: #fff;
+}
+#editor, #preview {
+  min-height: 400px;
+}
+#preview img {
+  width: 100%
+}
